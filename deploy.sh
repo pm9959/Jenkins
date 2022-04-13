@@ -1,2 +1,2 @@
 echo "Helloworld"
-echo "randomshit"
+echo "random-one"
